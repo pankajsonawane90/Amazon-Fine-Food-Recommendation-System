@@ -43,4 +43,11 @@ calls.
 # Framework and Libraries:
 
 -Pandas
+
 -Numpy
+
+-Scikit-learn
+
+-Seaborn
+
+-Matplotlib
