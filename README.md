@@ -1,25 +1,19 @@
-# Churn-Modelling
+# Churn-Modelling:
 
-Churn Model based on Machine Learning Classification algorithm on Telecom Data
+Churn Model based on Machine Learning Classification algorithm.
 
 # What is Churn Modelling?
 
-It is very important in the customer retention analysis for any sector. The output of a predictive churn model is a measure of the immediate or future risk of a customer cancellation(in this case whether the customer will stay in the bank or leave the bank) use cases
+Churn Modelling is very important in the customer retention analysis, for any sector. The output of a predictive churn model is a measure of the immediate or future risk of a customer cancellations to understand why customers are leaving. And to provide incentives to certain customers to prevent them from leaving and also predicting the revenue of the business.
 
-to understand why customers are leaving
-to provide incentives to certain customers to prevent them from leaving
-predicting the revenue of the business
-
-# Dataset for churn
+# Dataset for churn:
 
 Dataset by the name churn.csv
 
-Customer churn or customer attrition means the loss of customers for a company. The
-problem for customer churn is that the company would like to know in advance which
-customers would churn in near future. You are a member of a team of data scientists and
-the task of your team is to help this company in characterizing customer churn through data
-analytics methods. This dataset has 21 attributes including a binary class attribute about
-churn. The descriptions of the attributes are given below:
+Customer churn (customer attrition) means the loss of customers to the company. The problem for customer churn is that the company would like to know in advance which customers would churn in near future. You are a member of a team of data scientists and the task of your team is to help this company in characterizing customer churn through data analytics methods. This dataset has 21 attributes including a binary class attribute about churn. 
+
+The descriptions of the attributes are given below:
+
 1. State: Customer’s state.
 2. Account Length: Integer number showing the duration of activity for customer account.
 3. Area Code: Area code of customer.
@@ -46,9 +40,7 @@ calls.
 20. No of Calls Customer Service: The number of calls to customer support service.
 21. Churn: Class attribute with binary values (True for churn and False for not churn).
 
-
-# Framework and Libraries
+# Framework and Libraries:
 
 -Pandas
-
 -Numpy
